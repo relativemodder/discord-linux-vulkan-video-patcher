@@ -9,5 +9,5 @@ This patch is especially helpful for people with NVIDIA GPUs which lacks VA-API 
 Open up the terminal and run:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/relativemodder/discord-linux-vulkan-video-patcher/main/patch.sh | bash
+bash <(curl -sL https://raw.githubusercontent.com/relativemodder/discord-linux-vulkan-video-patcher/main/patch.sh)
 ```
